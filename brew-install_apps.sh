@@ -6,6 +6,7 @@ ORANGE='\033[0;33m'
 NC='\033[0m'
 
 BREW_APPS=(
+  ag
   caskroom/cask/brew-cask
   chruby
   ffmpeg
